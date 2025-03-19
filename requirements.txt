@@ -1,9 +1,8 @@
-streamlit
+streamlit>=1.20.0
 torch
 diffusers
 transformers
-opencv-python
+opencv-python-headless  # Use headless version for compatibility
 numpy
 Pillow
 bpy
-pip install --upgrade pip
