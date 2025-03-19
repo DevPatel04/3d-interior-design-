@@ -6,3 +6,4 @@ opencv-python
 numpy
 Pillow
 bpy
+pip install --upgrade pip
